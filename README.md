@@ -1,8 +1,4 @@
-# HANGMAN
-# JetBrains Academy project
-
 import random
-
 print('H A N G M A N')
 option = ''
 res = []
