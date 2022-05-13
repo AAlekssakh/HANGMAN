@@ -1,0 +1,2 @@
+# HANGMAN
+JetBrains Academy project
